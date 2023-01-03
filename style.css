@@ -1,0 +1,94 @@
+html { 
+}
+
+.navbar-bg {
+	background-color: #6986F2;
+}
+
+.navbar-bg-head {
+	background-color: #94A9F6;
+}
+
+.text-white:hover {
+	background-color: #1F4AE7;
+}
+
+.hero-bg {
+	background-image: url(CorgiLookingOut.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+}
+
+#hero .container {
+	height: 90vh;
+}
+
+.btn-primary {
+	padding: 1rem 2rem;
+	border-radius: 20rem;
+	background-color: #2F5C8F;
+	border-color: #2F5C8F;
+}
+
+.btn-primary:hover {
+	background-color: #80B2DE;
+	border-color: #80B2DE;
+}
+
+.heading-main-color {
+	color: #DBB83C;
+}
+
+.heading-secondary-color {
+	color: #FBD963;
+}
+
+.heading-tertiary-color {
+	color: #FFE486;
+}
+i {
+	color: #DBB83C;
+	margin-right: 1rem;
+}
+
+.mission-img {
+	width: 30rem;
+	height: 30rem;
+	object-fit: cover;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	letter-spacing: -1px;
+	line-height: 1rem;
+	margin: 1rem 0 1rem;
+	font-weight: 700;
+}
+
+.img-container {
+	display: flex;
+	justify-content: center;
+}
+
+img {
+	border-radius: 20px;
+}
+
+.blockquote-footer {
+	margin: 3rem 0 1rem;
+}
+
+.bg-color {
+	background-color: #2F5C8F;
+
+}
+
+.bg-color:hover {
+	background-color: #2f5C8F;
+}
+
+animate__flash {
+	transition: all 1s;
+}
+
+
